@@ -1,0 +1,2 @@
+Dataset C, ten categories
+https://www.kaggle.com/datasets/wangdaming1/ten-types-of-ultrasonic-images
